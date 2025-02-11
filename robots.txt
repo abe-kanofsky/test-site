@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://github.com/abe-kanofsky/test-site/sitemap.xml
