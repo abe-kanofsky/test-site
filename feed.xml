@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>test-site2</title>
+    <link href="https://github.com/abe-kanofsky/test-site/feed.xml" rel="self" />
+    <link href="https://github.com/abe-kanofsky/test-site" />
+    <updated>2025-02-09T10:26:03-08:00</updated>
+    <author>
+        <name>Abe</name>
+    </author>
+    <id>https://github.com/abe-kanofsky/test-site</id>
+
+    <entry>
+        <title>Test post</title>
+        <author>
+            <name>Abe</name>
+        </author>
+        <link href="https://github.com/abe-kanofsky/test-site/test-post.html"/>
+        <id>https://github.com/abe-kanofsky/test-site/test-post.html</id>
+
+        <updated>2025-02-09T10:26:03-08:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec erat odio, pharetra vitae odio ac, lobortis rhoncus mi. Sed efficitur, diam ut ullamcorper maximus, nisi lectus faucibus nisi, quis interdum dui purus mattis ligula. Donec porta tempor porttitor. In commodo dui et felis tempor bibendum.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec erat odio, pharetra vitae odio ac, lobortis rhoncus mi. Sed efficitur, diam ut ullamcorper maximus, nisi lectus faucibus nisi, quis interdum dui purus mattis ligula. Donec porta tempor porttitor. In commodo dui et felis tempor bibendum. Suspendisse placerat orci non sagittis euismod. Sed egestas elementum mauris, vel dignissim quam laoreet vitae. Vestibulum eget dolor quis sapien congue eleifend. Nunc vitae finibus arcu, eu viverra massa. Mauris sit amet mi ultricies, eleifend risus at, ultrices nunc. Donec dui lacus, lacinia id lacinia eu, tempor et ex. Vivamus nulla ligula, convallis ut faucibus in, aliquet vel urna. Donec in lorem dui. Aliquam euismod augue eu venenatis feugiat. Mauris varius tellus sit amet dolor suscipit mollis.</strong></p>
+<p>Morbi nisi libero, facilisis at consectetur eu, venenatis sed quam. Sed lacus sem, feugiat sit amet felis vel, maximus tincidunt turpis. Etiam dictum sem quis lectus luctus condimentum. Morbi scelerisque sem nec leo aliquet tempor. In vehicula felis sit amet faucibus egestas. Nunc pulvinar dictum porta. Pellentesque vel eros convallis, ultricies eros id, auctor diam. Integer nisi tortor, eleifend nec dignissim in, porta vel felis. Vivamus cursus urna at quam mattis blandit. Maecenas ut massa eu risus vestibulum volutpat. Integer ullamcorper malesuada nulla eu finibus. Curabitur id varius metus. Proin venenatis ligula urna, eget ullamcorper justo semper quis. Nullam pulvinar nec nunc in interdum. Duis et tincidunt purus.</p>
+<p>Etiam feugiat condimentum tellus vitae tempor. Nunc lacinia aliquet felis, vitae ullamcorper arcu fermentum id. Sed porttitor orci et nunc convallis, vel fermentum diam egestas. Nulla luctus nec urna ac ultrices. Aenean accumsan pulvinar tortor, ut luctus mi fringilla ac. Quisque sem ipsum, imperdiet sed fermentum ut, scelerisque vitae velit. Cras viverra lacinia tortor in condimentum. Maecenas ac sem pharetra, congue massa quis, commodo purus. Pellentesque neque orci, fermentum id mattis quis, sodales a mi. Curabitur consequat rutrum felis non interdum. Etiam et mauris et elit sollicitudin eleifend. Sed pharetra ex ac lectus volutpat, non semper lorem convallis. Maecenas sit amet massa efficitur magna ultricies efficitur. Nunc vitae aliquam augue, id suscipit quam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+<p>Fusce nec massa dui. Maecenas eu accumsan quam, sit amet tempus libero. Sed tristique nec arcu eu tristique. Etiam rutrum augue quis ipsum consequat, quis iaculis tortor convallis. Nullam ut justo erat. Donec sit amet magna augue. Nulla in auctor enim. Ut sollicitudin ligula vel urna molestie auctor. Cras vel nulla orci. Sed non pellentesque augue. Praesent id purus rhoncus, placerat ex ut, maximus sapien. Maecenas dignissim metus nec augue placerat maximus. Duis vitae tincidunt lacus, venenatis aliquet lacus. Aenean ut auctor urna, ut sodales nunc. Integer eu velit non erat varius tempus ut vel augue. Aenean ultricies a ante quis iaculis.</p>
+<p>Donec feugiat felis nisl, vitae tincidunt ex maximus vitae. Sed mattis viverra vulputate. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus scelerisque urna dui, interdum sodales mauris varius viverra. Aenean porttitor lectus ex, at blandit ipsum placerat a. Maecenas non orci non ligula bibendum ornare facilisis non ante. Nullam ipsum risus, ornare a iaculis id, ultricies vel orci. Suspendisse ultrices vitae mi ut ultrices. Donec rutrum ut risus et commodo. Aenean tempor odio et sapien placerat auctor. Sed ultrices neque ac ex ultricies, eu tempor nunc viverra. Vestibulum eu nulla quam. Suspendisse gravida blandit ligula, at imperdiet tortor mattis eget.</p>
+<form action="https://formsubmit.co/your@email.com" method="POST"><input required="" type="text"> <input name="email" required="" type="email"> <button type="submit">Send</button></form>
+            ]]>
+        </content>
+    </entry>
+</feed>
